@@ -1,3 +1,4 @@
+
 import pytest
 from calculator import calculate_average, is_passing, get_grade_category
 
@@ -21,6 +22,3 @@ def test_grade_categories():
     assert get_grade_category(13) == "Good"
     assert get_grade_category(10.5) == "Average"
     assert get_grade_category(7) == "Fail"
-
-
-
