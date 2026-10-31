@@ -1,0 +1,20 @@
+*   [33m36c7bd2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdocs/readme[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #5 from Neilem13/fix/passing-grade
+[31m|[m[32m\[m  
+[31m|[m * [33mf146739[m Fix linting once and for all
+[31m|[m * [33m09a5015[m Force linting fix
+[31m|[m * [33me308588[m Fix the actual bug
+[31m|[m * [33m3bdbbf3[m Setup bug for CI test
+[31m|[m * [33m890fab2[m Fix PEP8 blank lines
+[31m|[m * [33mf488ce8[m Fix linting errors (blank lines and newline)
+[31m|[m * [33m875eb09[m Fix linting issues for flake8
+[31m|[m * [33m9798ada[m Fix passing grade limit
+[31m|[m * [33mbd42869[m Introduce passing grade bug
+* [32m|[m   [33m6447f68[m Merge pull request #4 from Neilem13/feature/grade-category
+[32m|[m[34m\[m [32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+[32m|[m * [33m14947ee[m Fix linting feature once and for all
+[32m|[m * [33m46e0179[m Fix imports for CI
+[32m|[m * [33m9610c01[m Add grade category feature
+[32m|[m[32m/[m  
+* [33m4ce6c32[m Initial project setup with CI
